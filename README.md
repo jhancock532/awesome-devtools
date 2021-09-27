@@ -38,9 +38,9 @@ An early website with mountinous extremes of HTML.
 #### [Inspect This Snake](https://matthewrayfield.com/goodies/inspect-this-snake/) 2020 by [Matthew Rayfield](https://matthewrayfield.com/)
 A classic game of snake, but animated in HTML attributes.
 
-#### [DevTools Pong](https://defaced.dev/web/chrome-devtools-pong/) 2020? by Chris Johnson, aka @Defaced 
+#### [DevTools Pong](https://defaced.dev/web/chrome-devtools-pong/) 2020 by [Chris Johnson](https://twitter.com/defaced)
 
-#### [Doom.js](https://twitter.com/defaced/status/1350080919869251584) 2021 by Chris Johnson, aka @Defaced 
+#### [Doom.js](https://twitter.com/defaced/status/1350080919869251584) 2021 by [Chris Johnson](https://twitter.com/defaced)
 A one-line console import that loads and plays DOOM.
 
 ## Poetry
