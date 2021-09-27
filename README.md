@@ -13,7 +13,7 @@ The Bad Apple music video re-rendered as SVG frames then logged to the console.
 #### [Bad Apple Browser Console](https://github.com/g-otn/bad-apple-browser-console)
 The Bad Apple music video re-rendered as ASCII then logged to the console.
 
-#### [ConsoleIMG](https://defaced.dev/tools/consoleimg/)
+#### [ConsoleIMG](https://defaced.dev/tools/consoleimg/)  2020 by [Chris Johnson](https://twitter.com/defaced)
 A library that makes logging images to the console much easier.
 
 #### [Console.frog](https://github.com/tholman/console-dot-frog)
@@ -45,7 +45,7 @@ A one-line console import that loads and plays DOOM.
 
 ## Poetry
 
-#### [Web Poems](https://dinakelberman.com/#webpoems) 2017 - Ongoing by [Dina Kelberman](https://dinakelberman.com/)
+#### [Web Poems](https://dinakelberman.com/#webpoems) 2017 by [Dina Kelberman](https://dinakelberman.com/)
 HTML source code poetry with images, animations.
 
 #### https://www.sourcecodepoetry.com/
