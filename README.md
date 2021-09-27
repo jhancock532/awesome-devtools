@@ -30,7 +30,7 @@ Early influential piece of net art.
 #### https://stewartsmith.io/
 Animated fish ASCII; view using Chrome.
 
-## Poetry, Games
+## Games
 
 #### [Inspect This Snake](https://matthewrayfield.com/goodies/inspect-this-snake/) 2020 by [Matthew Rayfield](https://matthewrayfield.com/)
 A classic game of snake, but animated in HTML attributes.
@@ -39,6 +39,8 @@ A classic game of snake, but animated in HTML attributes.
 
 #### [Doom.js](https://twitter.com/defaced/status/1350080919869251584) 2021 by Chris Johnson, aka @Defaced 
 A one-line console import that loads and plays DOOM.
+
+## Poetry
 
 #### [Web Poems](https://dinakelberman.com/#webpoems) 2017 - Ongoing by [Dina Kelberman](https://dinakelberman.com/)
 HTML source code poetry with images, animations.
