@@ -16,17 +16,32 @@ The Bad Apple music video re-rendered as ASCII then logged to the console.
 #### [ConsoleIMG](https://defaced.dev/tools/consoleimg/)
 A library that makes logging images to the console much easier.
 
+#### [Console.frog](https://github.com/tholman/console-dot-frog)
+Logs to the console with frog ASCII.
+
+#### [Console.log](https://github.com/Duncan93/console.log)
+Logs to the console with an actual log. Important messaging about environmentalism and deforestry.
+
 ## ASCII
 
 #### http://wwwwwww.jodi.org/location/
-There's a LOT of ascii hidden in website source code; I'm including JODI's /location/ here as it is an influential piece of net art.
+Early influential piece of net art.
 
-
+#### https://stewartsmith.io/
+Animated fish ASCII; view using Chrome.
 
 ## Poetry, Games
 
 #### [Inspect This Snake](https://matthewrayfield.com/goodies/inspect-this-snake/) 2020 by [Matthew Rayfield](https://matthewrayfield.com/)
 A classic game of snake, but animated in HTML attributes.
+
+#### [DevTools Pong](https://defaced.dev/web/chrome-devtools-pong/) 2020? by Chris Johnson, aka @Defaced 
+
+#### [Doom.js](https://twitter.com/defaced/status/1350080919869251584) 2021 by Chris Johnson, aka @Defaced 
+A one-line console import that loads and plays DOOM.
+
+#### [Web Poems](https://dinakelberman.com/#webpoems) 2017 - Ongoing by [Dina Kelberman](https://dinakelberman.com/)
+HTML source code poetry with images, animations.
 
 ## Quines
 
