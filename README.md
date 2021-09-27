@@ -30,6 +30,9 @@ Early influential piece of net art.
 #### https://stewartsmith.io/
 Animated fish ASCII; view using Chrome.
 
+#### https://www.geeksaresexy.net/2009/09/01/a-hidden-gem-in-html/
+An early website with mountinous extremes of HTML.
+
 ## Games
 
 #### [Inspect This Snake](https://matthewrayfield.com/goodies/inspect-this-snake/) 2020 by [Matthew Rayfield](https://matthewrayfield.com/)
@@ -45,6 +48,8 @@ A one-line console import that loads and plays DOOM.
 #### [Web Poems](https://dinakelberman.com/#webpoems) 2017 - Ongoing by [Dina Kelberman](https://dinakelberman.com/)
 HTML source code poetry with images, animations.
 
+#### https://www.sourcecodepoetry.com/
+
 ## Quines
 
 https://secretgeek.github.io/html_wysiwyg/html.html
@@ -52,3 +57,9 @@ https://secretgeek.github.io/html_wysiwyg/html.html
 https://hugohil.github.io/dedans/
 
 http://all-html.net/ 
+
+https://webpage-performance.glitch.me/
+
+https://see-through.glitch.me/
+
+https://netnet.studio/?gh=jhancock532/know-thyself/main
