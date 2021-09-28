@@ -43,12 +43,21 @@ A classic game of snake, but animated in HTML attributes.
 #### [Doom.js](https://twitter.com/defaced/status/1350080919869251584) 2021 by [Chris Johnson](https://twitter.com/defaced)
 A one-line console import that loads and plays DOOM.
 
+## Music
+https://raphaelbastide.com/cascade/
+
+http://lissajousjs.com/
+
 ## Poetry
 
 #### [Web Poems](https://dinakelberman.com/#webpoems) 2017 by [Dina Kelberman](https://dinakelberman.com/)
 HTML source code poetry with images, animations.
 
 #### https://www.sourcecodepoetry.com/
+
+## Web Scraping
+
+http://medialab.github.io/artoo/
 
 ## Quines
 
